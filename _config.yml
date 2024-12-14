@@ -30,8 +30,8 @@ baseurl: "/containers"
 heading: vladcampos # Change this 
 content: Obsidian ready Jekyll Theme
 copyright:  
-  year: © 2022
-  msg: Contents under CC-BY-NC 
+  year: © 2024
+  msg: Made with ❤️
 
 # Set title and content for private & broken link tooltop
 privatelinks:
