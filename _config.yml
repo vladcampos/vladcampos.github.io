@@ -99,8 +99,9 @@ defaults:
       path: ""
       type: notes
     values:
-      layout: Post
-      content-type: notes
+      layout: Notes
+      permalink: /:categories/:title
+      content-type: notes   
 
 
 # Exclude from processing.
