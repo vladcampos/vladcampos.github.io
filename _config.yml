@@ -38,6 +38,11 @@ privatelinks:
   title: Private or Broken Links
   msg: The page you're looking for is either not available or private!
 
+# Ads
+ad:
+  supernote: 📓 If you decide to buy a Supernote at some point, please consider using my affiliate link. Thank you.
+  
+
 # Theme level preferences
 # To enable set "enabled : true" else, use "enabled:false"
 preferences:
