@@ -74,6 +74,9 @@ collections:
     notes:
       output: true
       permalink: /note/:title
+    blog:
+      output: true
+      permalink: /note/:title  
 
 markdown: kramdown
 
