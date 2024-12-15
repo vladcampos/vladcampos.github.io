@@ -90,7 +90,7 @@ sass:
 defaults:
   - scope:
       path: ""
-      type: blog
+      type: posts
     values:
       layout: Blog
       permalink: /blog/:title
