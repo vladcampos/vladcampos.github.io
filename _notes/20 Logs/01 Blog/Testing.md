@@ -1,7 +1,7 @@
 ---
 title: Testing
 date: 2024-12-15
-ategory: Blog
+category: Blog
 ---
 Hello this is my first post from my computer.
 
