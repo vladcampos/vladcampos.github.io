@@ -1,8 +1,8 @@
 ---
-title: Testing
+title: Testing123
 feed: show
 date: 2024-12-15
-permalink: /blog/testing123
+permalink:
 format: 
 ---
 Hello this is my first post from my computer.
