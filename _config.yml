@@ -90,16 +90,16 @@ sass:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: blog
     values:
-      layout: Post
-      permalink: /post/:title
-      content-type: post
+      layout: Blog
+      permalink: /blog/:title
+      content-type: blog
   - scope:
       path: ""
       type: notes
     values:
-      layout: Post
+      layout: Blog
       content-type: notes
 
 
