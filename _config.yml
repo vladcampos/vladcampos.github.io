@@ -92,14 +92,14 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: Blog
-      permalink: /blog/:title
-      content-type: blog
+      layout: Post
+      permalink: /post/:title
+      content-type: post
   - scope:
       path: ""
       type: notes
     values:
-      layout: Blog
+      layout: Post
       content-type: notes
 
 
