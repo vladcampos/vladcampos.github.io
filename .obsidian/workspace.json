@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts.md",
+                "file": "_posts/2020-03-01-features.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "posts"
+              "title": "2020-03-01-features"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/posts.md",
+                "file": "_posts/2020-03-01-features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for posts"
+              "title": "Backlinks for 2020-03-01-features"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/posts.md",
+                "file": "_posts/2020-03-01-features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from posts"
+              "title": "Outgoing links from 2020-03-01-features"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/posts.md"
+                "file": "_posts/2020-03-01-features.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of posts"
+              "title": "Outline of 2020-03-01-features"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "9b404366fc1b99c7",
   "lastOpenFiles": [
-    "pages/blog.md",
     "pages/posts.md",
+    "pages/blog.md",
     "pages/lists.md",
     "pages/404.md",
     "pages/notes.md",
